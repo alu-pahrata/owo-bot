@@ -1,0 +1,14 @@
+{
+  "name": "uwu-bot",
+  "version": "0.8.1",
+  "description": "A bot that detects for UwU and other related terms",
+  "main": "index.js",
+  "scripts": {
+    "test": "!ping"
+  },
+  "author": "alu_pahrata",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
